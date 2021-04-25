@@ -1,4 +1,4 @@
-# Let's Build a Food Recipe App
+<!-- # Let's Build a Food Recipe App
 React API Project Tutorial Using Hooks, Axios and Firebase
 
 ![recipe app reactjs api project sanskar tiwari](https://user-images.githubusercontent.com/55942632/109449230-e829a780-7a6d-11eb-9934-a9c82cce1e12.jpg)
@@ -28,7 +28,7 @@ React API Project Tutorial Using Hooks, Axios and Firebase
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.
+    limitations under the License. -->
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
